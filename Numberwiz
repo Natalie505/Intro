@@ -6,3 +6,5 @@ Debug.Log(Hello); These print to the console
 
 integer varables are called int, then we name them starting with a lowercase
 ex: int myAgeIs
+
+iF (Input. GetKeyDown("up"))--> looks for an input of a specific button being pushed 
